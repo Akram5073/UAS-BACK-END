@@ -1,0 +1,12 @@
+DEBUG - 2025-01-24 04:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-24 04:41:27 --> Data diterima: id=9, nim=111, nama=Akram, email=1233213asd, alamat=adwadw, nilai=100
+DEBUG - 2025-01-24 06:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-24 06:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-24 06:42:08 --> Data diterima: id=10, nim=2345, nama=Akram, email=1233213asd, alamat=adwadw, nilai=100
+DEBUG - 2025-01-24 08:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-24 08:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-24 08:28:14 --> Data diterima: id=10, nim=2345, nama=Akram, email=Akram@gmail.com, alamat=Kulon, nilai=100
+DEBUG - 2025-01-24 08:33:32 --> Data diterima: id=12, nim=2346, nama=Tara, email=Tara@gmail.com, alamat=Wetan, nilai=100
+DEBUG - 2025-01-24 08:51:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-24 08:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-24 08:56:02 --> Data diterima: id=13, nim=2346, nama=Taradiva, email=Tara@gmail.com, alamat=Wetan, nilai=80
